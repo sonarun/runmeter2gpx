@@ -7,10 +7,9 @@ Export workouts from [Runmeter](https://abvio.com/runmeter/) database to gpx.
 ## Usage
 
 1. Put your `Meter.db` that was extracted from Runmeter into the same folder as `index.py`
-2. run the command `python index.py`
-3. wait and you will see your `.gpx` files being created.
+2. Run the command `python index.py`
+3. Watch your `.gpx` files being created in the same folder as the program.
 
-You should see your files being populated in the same folder as the program.
 
 ## Why
 
